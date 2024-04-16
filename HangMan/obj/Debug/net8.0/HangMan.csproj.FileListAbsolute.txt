@@ -12,3 +12,4 @@
 /Users/macmini/ELEVENFIFTYPROJECTS2/HangMan/HangMan/obj/Debug/net8.0/HangMan.pdb
 /Users/macmini/ELEVENFIFTYPROJECTS2/HangMan/HangMan/obj/Debug/net8.0/HangMan.genruntimeconfig.cache
 /Users/macmini/ELEVENFIFTYPROJECTS2/HangMan/HangMan/obj/Debug/net8.0/ref/HangMan.dll
+/Users/macmini/ELEVENFIFTYPROJECTS2/HangMan/HangMan/obj/Debug/net8.0/HangMan.sourcelink.json
