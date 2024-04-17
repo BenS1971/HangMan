@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/macmini/ELEVENFIFTYPROJECTS2/HangMan/HangMan/HangMan.csproj": {}
+    "/Users/macmini/ELEVENFIFTYPROJECTS2/HangMan 8.25.13 PM/HangMan/HangMan.csproj": {}
   },
   "projects": {
-    "/Users/macmini/ELEVENFIFTYPROJECTS2/HangMan/HangMan/HangMan.csproj": {
+    "/Users/macmini/ELEVENFIFTYPROJECTS2/HangMan 8.25.13 PM/HangMan/HangMan.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/macmini/ELEVENFIFTYPROJECTS2/HangMan/HangMan/HangMan.csproj",
+        "projectUniqueName": "/Users/macmini/ELEVENFIFTYPROJECTS2/HangMan 8.25.13 PM/HangMan/HangMan.csproj",
         "projectName": "HangMan",
-        "projectPath": "/Users/macmini/ELEVENFIFTYPROJECTS2/HangMan/HangMan/HangMan.csproj",
+        "projectPath": "/Users/macmini/ELEVENFIFTYPROJECTS2/HangMan 8.25.13 PM/HangMan/HangMan.csproj",
         "packagesPath": "/Users/macmini/.nuget/packages/",
-        "outputPath": "/Users/macmini/ELEVENFIFTYPROJECTS2/HangMan/HangMan/obj/",
+        "outputPath": "/Users/macmini/ELEVENFIFTYPROJECTS2/HangMan 8.25.13 PM/HangMan/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/macmini/.nuget/NuGet/NuGet.Config"

@@ -13,3 +13,11 @@
 /Users/macmini/ELEVENFIFTYPROJECTS2/HangMan/HangMan/obj/Debug/net8.0/HangMan.genruntimeconfig.cache
 /Users/macmini/ELEVENFIFTYPROJECTS2/HangMan/HangMan/obj/Debug/net8.0/ref/HangMan.dll
 /Users/macmini/ELEVENFIFTYPROJECTS2/HangMan/HangMan/obj/Debug/net8.0/HangMan.sourcelink.json
+/Users/macmini/ELEVENFIFTYPROJECTS2/HangMan 8.25.13 PM/HangMan/obj/Debug/net8.0/HangMan.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macmini/ELEVENFIFTYPROJECTS2/HangMan 8.25.13 PM/HangMan/obj/Debug/net8.0/HangMan.AssemblyInfoInputs.cache
+/Users/macmini/ELEVENFIFTYPROJECTS2/HangMan 8.25.13 PM/HangMan/obj/Debug/net8.0/HangMan.AssemblyInfo.cs
+/Users/macmini/ELEVENFIFTYPROJECTS2/HangMan 8.25.13 PM/HangMan/obj/Debug/net8.0/HangMan.csproj.CoreCompileInputs.cache
+/Users/macmini/ELEVENFIFTYPROJECTS2/HangMan 8.25.13 PM/HangMan/obj/Debug/net8.0/HangMan.sourcelink.json
+/Users/macmini/ELEVENFIFTYPROJECTS2/HangMan 8.25.13 PM/HangMan/obj/Debug/net8.0/HangMan.dll
+/Users/macmini/ELEVENFIFTYPROJECTS2/HangMan 8.25.13 PM/HangMan/obj/Debug/net8.0/refint/HangMan.dll
+/Users/macmini/ELEVENFIFTYPROJECTS2/HangMan 8.25.13 PM/HangMan/obj/Debug/net8.0/HangMan.pdb

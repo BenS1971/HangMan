@@ -20,20 +20,15 @@ class Program
     static void DisplayHangManStatus (int attempts)
         { string array @"
                
-            =========
-            |       |
-            |       o
-            |      \|/
-            |       |
-            |      / \ 
+            ==========
+            ||       |
+            ||     \ O /
+            ||       |
+            ||       |
+            ||      / \ 
+            ||
             ========== ",           
-        
-        
-             
-
-
-        
-    }
+         }
 }
 
 
