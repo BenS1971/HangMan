@@ -18,16 +18,15 @@ class Program
          //   Console.WriteLine("" + random.Next);
         }
     static void DisplayHangManStatus (int attempts)
-        { @"
-               --------
-               |      |
-               |      O
-               |     \|/
-               |      |
-               |     / \
-               -
-            ",
-              
+        { string array @"
+               
+            =========
+            |       |
+            |       o
+            |      \|/
+            |       |
+            |      / \ 
+            ========== ",           
         
         
              
