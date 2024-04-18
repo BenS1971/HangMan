@@ -17,10 +17,11 @@ class Program
         {
          //   Console.WriteLine("" + random.Next);
         }
-    //This will make a simplified picture of the stages of the 
-    // Hangman when a player gets a letter wrong.
+    //This will make a simplified picture of the stages of the Hangman when a player gets a letter wrong.
+    
     static void DisplayHangManStatus (int attempts)
-        { string array @"
+        { string [] attempts = 
+            @"
                
             ==========
             ||       |
@@ -96,7 +97,8 @@ class Program
             ||      / \ 
             ||
             ========== ",     
-         }
+         };
+         Console.WriteLine(attempts)
      }
 }
 
