@@ -21,3 +21,10 @@
 /Users/macmini/ELEVENFIFTYPROJECTS2/HangMan 8.25.13 PM/HangMan/obj/Debug/net8.0/HangMan.dll
 /Users/macmini/ELEVENFIFTYPROJECTS2/HangMan 8.25.13 PM/HangMan/obj/Debug/net8.0/refint/HangMan.dll
 /Users/macmini/ELEVENFIFTYPROJECTS2/HangMan 8.25.13 PM/HangMan/obj/Debug/net8.0/HangMan.pdb
+/Users/macmini/ELEVENFIFTYPROJECTS2/HangMan 8.25.13 PM/HangMan/bin/Debug/net8.0/HangMan
+/Users/macmini/ELEVENFIFTYPROJECTS2/HangMan 8.25.13 PM/HangMan/bin/Debug/net8.0/HangMan.deps.json
+/Users/macmini/ELEVENFIFTYPROJECTS2/HangMan 8.25.13 PM/HangMan/bin/Debug/net8.0/HangMan.runtimeconfig.json
+/Users/macmini/ELEVENFIFTYPROJECTS2/HangMan 8.25.13 PM/HangMan/bin/Debug/net8.0/HangMan.dll
+/Users/macmini/ELEVENFIFTYPROJECTS2/HangMan 8.25.13 PM/HangMan/bin/Debug/net8.0/HangMan.pdb
+/Users/macmini/ELEVENFIFTYPROJECTS2/HangMan 8.25.13 PM/HangMan/obj/Debug/net8.0/HangMan.genruntimeconfig.cache
+/Users/macmini/ELEVENFIFTYPROJECTS2/HangMan 8.25.13 PM/HangMan/obj/Debug/net8.0/ref/HangMan.dll
